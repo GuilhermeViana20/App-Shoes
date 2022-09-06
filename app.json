@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "petup-app",
-    "slug": "petup-app",
+    "name": "app-shoes",
+    "slug": "app-shoes",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
